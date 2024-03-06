@@ -1,2 +1,2 @@
-# terorist-quiz
-teroristini dogru tani turkiye
+# occupation-quiz
+Tipten meslek tahmin et.
