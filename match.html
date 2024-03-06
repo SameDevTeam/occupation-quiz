@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Terorist Quiz</title>
+  <title>JOB Quiz</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -109,7 +109,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Terorist - Orgut Eslestir</h1>
+    <h1>JOB QUIZ</h1>
     <p>Asagidaki orgutleri surukleyip birakarak gorsellerle eslestir.</p>
     <div id="quiz-container"></div>
   </div>
@@ -145,12 +145,12 @@
 
       const board = [];
 
-      const allOrganisations = terroristData.map((t) => t.TOrgutAdi).filter((v, i, a) => a.indexOf(v) === i);
+      const allOrganisations = terroristData.map((t) => t.job).filter((v, i, a) => a.indexOf(v) === i);
       const randomOrganisations = allOrganisations.sort(() => 0.5 - Math.random()).slice(0, 4);
 
       for (let i = 0; i < 4; i++) {
         const organisation = randomOrganisations[i];
-        const [terrorist] = terroristData.filter((t) => t.TOrgutAdi === organisation).sort(() => 0.5 - Math.random());
+        const [terrorist] = terroristData.filter((t) => t.job === organisation).sort(() => 0.5 - Math.random());
 
         board.push(terrorist);
       }
@@ -165,7 +165,7 @@
       quizContainer.innerHTML = `<div class="options">
         ${shuffled.map((person) => {
           return `<div class="droppable draggable-dropzone--occupied">
-            <div class="answer-draggable" data-org="${person.TOrgutAdi}"><span>${person.TOrgutAdi}</span></div>
+            <div class="answer-draggable" data-org="${person.job}"><span>${person.job}</span></div>
           </div>`;
         }).join('')}
       </div>
@@ -173,7 +173,7 @@
         ${board.map((person) => {
           return `<div class="person">
             <img src="https://www.terorarananlar.pol.tr/${person.IlkGorselURL}" alt="Terrorist Image">
-            <div class="droppable" data-org="${person.TOrgutAdi}"></div>
+            <div class="droppable" data-org="${person.job}"></div>
           </div>`;
         }).join('')}
       </div>`;
