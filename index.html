@@ -200,9 +200,10 @@
       uniqueTerroristNames.splice(randomIndex, 1);
     }
 
-    const allAnswers = [correctAnswer, ...incorrectAnswers].sort(() => Math.random() - 0.5);
+    //const allAnswers = [correctAnswer, ...incorrectAnswers].sort(() => Math.random() - 0.5);
+    const allAnswers = ['Esnaf','Developer','Beyaz Yaka','Tester']
     const quizContainer = document.getElementById('quiz-container');
-
+    console.log(allAnswers)
     quizContainer.innerHTML = `<div class="image-container">
       <img src="${currentTerrorist.IlkGorselURL}" alt="Terrorist Image">
     </div>

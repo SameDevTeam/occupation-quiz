@@ -1,6 +1,13 @@
 [
     {
-    
+        "GorselURL": [
+          "https://media.licdn.com/dms/image/C4D03AQEFFkYZ_D16Jg/profile-displayphoto-shrink_100_100/0/1657231024834?e=1715212800&v=beta&t=LWzQj3fO8OWkc6zfHddNyKwVTiYkKCdw7O1KPIbrq44",
+          "https://media.licdn.com/dms/image/C4D03AQEFFkYZ_D16Jg/profile-displayphoto-shrink_100_100/0/1657231024834?e=1715212800&v=beta&t=LWzQj3fO8OWkc6zfHddNyKwVTiYkKCdw7O1KPIbrq44"
+        ],
+        "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQEFFkYZ_D16Jg/profile-displayphoto-shrink_100_100/0/1657231024834?e=1715212800&v=beta&t=LWzQj3fO8OWkc6zfHddNyKwVTiYkKCdw7O1KPIbrq44",
+        "job": "Esnaf"
+    },
+    {
         "GorselURL": [
           "https://media.licdn.com/dms/image/C5603AQHObRMGOX8wvQ/profile-displayphoto-shrink_100_100/0/1583002591027?e=1715212800&v=beta&t=BcKj9VigmbTAuszYsmWp_P1f_oMzK9Po00FDrMgML6c",
           "https://media.licdn.com/dms/image/C5603AQHObRMGOX8wvQ/profile-displayphoto-shrink_100_100/0/1583002591027?e=1715212800&v=beta&t=BcKj9VigmbTAuszYsmWp_P1f_oMzK9Po00FDrMgML6c"
@@ -9,30 +16,85 @@
         "job": "Developer"
     },
     {
-
-        "GorselURL": [
-          "https://media.licdn.com/dms/image/C5603AQHObRMGOX8wvQ/profile-displayphoto-shrink_100_100/0/1583002591027?e=1715212800&v=beta&t=BcKj9VigmbTAuszYsmWp_P1f_oMzK9Po00FDrMgML6c",
-          "https://media.licdn.com/dms/image/C5603AQHObRMGOX8wvQ/profile-displayphoto-shrink_100_100/0/1583002591027?e=1715212800&v=beta&t=BcKj9VigmbTAuszYsmWp_P1f_oMzK9Po00FDrMgML6c"
+        "GorselURL": ["https://media.licdn.com/dms/image/D4E35AQF2b5xdHL1eJQ/profile-framedphoto-shrink_100_100/0/1708458756812?e=1710320400&v=beta&t=TALKiLgPJdi7eFt4slX8fhr5fn-tOzVARJDoqyBgIgg"
+        ,"https://media.licdn.com/dms/image/D4E35AQF2b5xdHL1eJQ/profile-framedphoto-shrink_100_100/0/1708458756812?e=1710320400&v=beta&t=TALKiLgPJdi7eFt4slX8fhr5fn-tOzVARJDoqyBgIgg"
         ],
-        "IlkGorselURL": "https://media.licdn.com/dms/image/C5603AQHObRMGOX8wvQ/profile-displayphoto-shrink_100_100/0/1583002591027?e=1715212800&v=beta&t=BcKj9VigmbTAuszYsmWp_P1f_oMzK9Po00FDrMgML6c",
-        "job": "Developer"
+        "IlkGorselURL": "https://media.licdn.com/dms/image/D4E35AQF2b5xdHL1eJQ/profile-framedphoto-shrink_100_100/0/1708458756812?e=1710320400&v=beta&t=TALKiLgPJdi7eFt4slX8fhr5fn-tOzVARJDoqyBgIgg",
+        "job": "Beyaz Yaka"
     },
     {
-
-        "GorselURL": [
-          "https://media.licdn.com/dms/image/C5603AQHObRMGOX8wvQ/profile-displayphoto-shrink_100_100/0/1583002591027?e=1715212800&v=beta&t=BcKj9VigmbTAuszYsmWp_P1f_oMzK9Po00FDrMgML6c",
-          "https://media.licdn.com/dms/image/C5603AQHObRMGOX8wvQ/profile-displayphoto-shrink_100_100/0/1583002591027?e=1715212800&v=beta&t=BcKj9VigmbTAuszYsmWp_P1f_oMzK9Po00FDrMgML6c"
-        ],
-        "IlkGorselURL": "https://media.licdn.com/dms/image/C5603AQHObRMGOX8wvQ/profile-displayphoto-shrink_100_100/0/1583002591027?e=1715212800&v=beta&t=BcKj9VigmbTAuszYsmWp_P1f_oMzK9Po00FDrMgML6c",
-        "job": "Developer"
-    },
-    {
-
         "GorselURL": [
             "https://media.licdn.com/dms/image/D4D03AQFMu3PZOYskIw/profile-displayphoto-shrink_100_100/0/1690726502872?e=1715212800&v=beta&t=TYIuq_iUqDJCiLFSiEP15PoGm3oKHz6fKkJMDvdqM_8",
             "https://media.licdn.com/dms/image/D4D03AQFMu3PZOYskIw/profile-displayphoto-shrink_100_100/0/1690726502872?e=1715212800&v=beta&t=TYIuq_iUqDJCiLFSiEP15PoGm3oKHz6fKkJMDvdqM_8"
           ],
         "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQFMu3PZOYskIw/profile-displayphoto-shrink_100_100/0/1690726502872?e=1715212800&v=beta&t=TYIuq_iUqDJCiLFSiEP15PoGm3oKHz6fKkJMDvdqM_8",
+        "job": "Tester"
+    },
+
+    {
+        "GorselURL": [
+            "https://media.licdn.com/dms/image/D4D03AQHpBAEsLtdUVA/profile-displayphoto-shrink_100_100/0/1687073234945?e=1715212800&v=beta&t=CYos5jJUykFlxnib1Wc_5_hK7ncoZ2hODrmpvD-95l8",
+            "https://media.licdn.com/dms/image/D4D03AQHpBAEsLtdUVA/profile-displayphoto-shrink_100_100/0/1687073234945?e=1715212800&v=beta&t=CYos5jJUykFlxnib1Wc_5_hK7ncoZ2hODrmpvD-95l8"
+          ],
+        "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQHpBAEsLtdUVA/profile-displayphoto-shrink_100_100/0/1687073234945?e=1715212800&v=beta&t=CYos5jJUykFlxnib1Wc_5_hK7ncoZ2hODrmpvD-95l8",
+        "job": "Esnaf"
+    },
+
+    {
+        "GorselURL": [
+            "https://media.licdn.com/dms/image/D5603AQHY8bj8vzzt5g/profile-displayphoto-shrink_100_100/0/1638963703610?e=1715212800&v=beta&t=9zyAT-3ki7JOm0_MfnzC0SyGltjD0oMKJJDxr9p50QA",
+            "https://media.licdn.com/dms/image/D5603AQHY8bj8vzzt5g/profile-displayphoto-shrink_100_100/0/1638963703610?e=1715212800&v=beta&t=9zyAT-3ki7JOm0_MfnzC0SyGltjD0oMKJJDxr9p50QA"
+          ],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D5603AQHY8bj8vzzt5g/profile-displayphoto-shrink_100_100/0/1638963703610?e=1715212800&v=beta&t=9zyAT-3ki7JOm0_MfnzC0SyGltjD0oMKJJDxr9p50QA",
+        "job": "Beyaz Yaka"
+    },
+
+    {
+        "GorselURL": [
+            "https://media.licdn.com/dms/image/C4D03AQHlVRhGbv8sRQ/profile-displayphoto-shrink_100_100/0/1607980732105?e=1715212800&v=beta&t=Iu5dFIzlsrS1rlSdYrjjFT7w9HEMUG4X4vv0_gyb4bA",
+            "https://media.licdn.com/dms/image/C4D03AQHlVRhGbv8sRQ/profile-displayphoto-shrink_100_100/0/1607980732105?e=1715212800&v=beta&t=Iu5dFIzlsrS1rlSdYrjjFT7w9HEMUG4X4vv0_gyb4bA"
+        ],
+        "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQHlVRhGbv8sRQ/profile-displayphoto-shrink_100_100/0/1607980732105?e=1715212800&v=beta&t=Iu5dFIzlsrS1rlSdYrjjFT7w9HEMUG4X4vv0_gyb4bA",
+        "job": "Developer"
+    },
+
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/D4D03AQHYOWmyfA8bKA/profile-displayphoto-shrink_100_100/0/1676421755284?e=1715212800&v=beta&t=XZIZBhkiF9Yi6qFAxbcbQrWLIkNLs62a224ZS6_a5Kc",
+        "https://media.licdn.com/dms/image/D4D03AQHYOWmyfA8bKA/profile-displayphoto-shrink_100_100/0/1676421755284?e=1715212800&v=beta&t=XZIZBhkiF9Yi6qFAxbcbQrWLIkNLs62a224ZS6_a5Kc"
+        ],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D4D03AQHYOWmyfA8bKA/profile-displayphoto-shrink_100_100/0/1676421755284?e=1715212800&v=beta&t=XZIZBhkiF9Yi6qFAxbcbQrWLIkNLs62a224ZS6_a5Kc",
+        "job": "Esnaf"
+    }
+    ,
+
+
+
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/D5603AQHmyI1hOcipvQ/profile-displayphoto-shrink_100_100/0/1700222691932?e=1715212800&v=beta&t=T4i8N9wypRrZ2HPBjaw7aT5NhF2AtlvssfzQFxAEK0w",
+        "https://media.licdn.com/dms/image/D5603AQHmyI1hOcipvQ/profile-displayphoto-shrink_100_100/0/1700222691932?e=1715212800&v=beta&t=T4i8N9wypRrZ2HPBjaw7aT5NhF2AtlvssfzQFxAEK0w"
+        ],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D5603AQHmyI1hOcipvQ/profile-displayphoto-shrink_100_100/0/1700222691932?e=1715212800&v=beta&t=T4i8N9wypRrZ2HPBjaw7aT5NhF2AtlvssfzQFxAEK0w",
+        "job": "Beyaz Yaka"
+    },
+
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/D4D03AQHRyrPNXgNEVg/profile-displayphoto-shrink_100_100/0/1707683117590?e=1715212800&v=beta&t=DTv-DIxZSfmzXegYgpQliUhlK02hrEwsfy7QYGBg6og",
+        "https://media.licdn.com/dms/image/D4D03AQHRyrPNXgNEVg/profile-displayphoto-shrink_100_100/0/1707683117590?e=1715212800&v=beta&t=DTv-DIxZSfmzXegYgpQliUhlK02hrEwsfy7QYGBg6og"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D4D03AQHRyrPNXgNEVg/profile-displayphoto-shrink_100_100/0/1707683117590?e=1715212800&v=beta&t=DTv-DIxZSfmzXegYgpQliUhlK02hrEwsfy7QYGBg6og",
+        "job": "Esnaf"
+    },
+
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/D4D03AQHYOWmyfA8bKA/profile-displayphoto-shrink_100_100/0/1676421755284?e=1715212800&v=beta&t=XZIZBhkiF9Yi6qFAxbcbQrWLIkNLs62a224ZS6_a5Kc",
+        "https://media.licdn.com/dms/image/D4D03AQHYOWmyfA8bKA/profile-displayphoto-shrink_100_100/0/1676421755284?e=1715212800&v=beta&t=XZIZBhkiF9Yi6qFAxbcbQrWLIkNLs62a224ZS6_a5Kc"
+        ],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D4D03AQHYOWmyfA8bKA/profile-displayphoto-shrink_100_100/0/1676421755284?e=1715212800&v=beta&t=XZIZBhkiF9Yi6qFAxbcbQrWLIkNLs62a224ZS6_a5Kc",
+        "job": "Esnaf"
+    },
+
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/C4D03AQH0VCSIhGkypw/profile-displayphoto-shrink_100_100/0/1641067678061?e=1715212800&v=beta&t=huKqsPiBZEP-M83okPdbuLL8C_islS9aWOn_GtqY-Qg","https://media.licdn.com/dms/image/C4D03AQH0VCSIhGkypw/profile-displayphoto-shrink_100_100/0/1641067678061?e=1715212800&v=beta&t=huKqsPiBZEP-M83okPdbuLL8C_islS9aWOn_GtqY-Qg"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C4D03AQH0VCSIhGkypw/profile-displayphoto-shrink_100_100/0/1641067678061?e=1715212800&v=beta&t=huKqsPiBZEP-M83okPdbuLL8C_islS9aWOn_GtqY-Qg",
         "job": "Tester"
     }
 
