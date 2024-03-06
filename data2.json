@@ -1,19 +1,57 @@
 [
+    
+    { 
+        "GörselURL":["https://img-s1.onedio.com/id-569645228b64a71e41480583/rev-0/w-600/h-480/f-jpg/s-7c6dcba3c6312e8cba853f44a2d8da8145274b2a.jpg","https://img-s1.onedio.com/id-569645228b64a71e41480583/rev-0/w-600/h-480/f-jpg/s-7c6dcba3c6312e8cba853f44a2d8da8145274b2a.jpg"],
+        "IlkGorselURL":"https://img-s1.onedio.com/id-569645228b64a71e41480583/rev-0/w-600/h-480/f-jpg/s-7c6dcba3c6312e8cba853f44a2d8da8145274b2a.jpg",
+        "job": "Esnaf"
+    },
+
+    {
+        "GorselURL": [
+          "https://avatars.githubusercontent.com/u/112877948?s=400&u=c35dbb93fcb0d7a9b1c7e146bbe6eacfdca2d803&v=4",
+          "https://avatars.githubusercontent.com/u/112877948?s=400&u=c35dbb93fcb0d7a9b1c7e146bbe6eacfdca2d803&v=4"
+        ],
+        "IlkGorselURL": "https://avatars.githubusercontent.com/u/112877948?s=400&u=c35dbb93fcb0d7a9b1c7e146bbe6eacfdca2d803&v=4",
+        "job": "Beyaz Yaka"
+    },
+
+    { 
+        "GörselURL":["https://media.licdn.com/dms/image/C5103AQECKDPiUkvSUw/profile-displayphoto-shrink_100_100/0/1517463089856?e=1715212800&v=beta&t=eaPKPCRoMBUe9aCgfYKELchqft_X2QnXRtIXNUhSEcA","https://media.licdn.com/dms/image/C5103AQECKDPiUkvSUw/profile-displayphoto-shrink_100_100/0/1517463089856?e=1715212800&v=beta&t=eaPKPCRoMBUe9aCgfYKELchqft_X2QnXRtIXNUhSEcA"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C5103AQECKDPiUkvSUw/profile-displayphoto-shrink_100_100/0/1517463089856?e=1715212800&v=beta&t=eaPKPCRoMBUe9aCgfYKELchqft_X2QnXRtIXNUhSEcA",
+        "job": "Esnaf"
+    },
     {
         "GorselURL": [
           "https://media.licdn.com/dms/image/C4D03AQEFFkYZ_D16Jg/profile-displayphoto-shrink_100_100/0/1657231024834?e=1715212800&v=beta&t=LWzQj3fO8OWkc6zfHddNyKwVTiYkKCdw7O1KPIbrq44",
           "https://media.licdn.com/dms/image/C4D03AQEFFkYZ_D16Jg/profile-displayphoto-shrink_100_100/0/1657231024834?e=1715212800&v=beta&t=LWzQj3fO8OWkc6zfHddNyKwVTiYkKCdw7O1KPIbrq44"
         ],
         "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQEFFkYZ_D16Jg/profile-displayphoto-shrink_100_100/0/1657231024834?e=1715212800&v=beta&t=LWzQj3fO8OWkc6zfHddNyKwVTiYkKCdw7O1KPIbrq44",
-        "job": "Esnaf"
+        "job": "Beyaz Yaka"
     },
+    { 
+        "GörselURL":["https://media.licdn.com/dms/image/D5603AQFVV4x71nIl1A/profile-displayphoto-shrink_100_100/0/1699720577849?e=1715212800&v=beta&t=y8Bp1YwpaKclYkRfrsHtkxNRmLp7rr9GAmSS4_pUtfs","https://media.licdn.com/dms/image/D5603AQFVV4x71nIl1A/profile-displayphoto-shrink_100_100/0/1699720577849?e=1715212800&v=beta&t=y8Bp1YwpaKclYkRfrsHtkxNRmLp7rr9GAmSS4_pUtfs"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D5603AQFVV4x71nIl1A/profile-displayphoto-shrink_100_100/0/1699720577849?e=1715212800&v=beta&t=y8Bp1YwpaKclYkRfrsHtkxNRmLp7rr9GAmSS4_pUtfs",
+        "job": "Memur"
+    },
+
+    { 
+        "GörselURL":["https://media.licdn.com/dms/image/C4D03AQEI_El8mlf27w/profile-displayphoto-shrink_100_100/0/1561395537142?e=1715212800&v=beta&t=J3-scitsiXpRIHOcyvUgmpzxwYEFNkpodKC59BCIapA","https://media.licdn.com/dms/image/C4D03AQEI_El8mlf27w/profile-displayphoto-shrink_100_100/0/1561395537142?e=1715212800&v=beta&t=J3-scitsiXpRIHOcyvUgmpzxwYEFNkpodKC59BCIapA"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C4D03AQEI_El8mlf27w/profile-displayphoto-shrink_100_100/0/1561395537142?e=1715212800&v=beta&t=J3-scitsiXpRIHOcyvUgmpzxwYEFNkpodKC59BCIapA",
+        "job": "Memur"
+    },    
+    { 
+        "GörselURL":["https://media.licdn.com/dms/image/C4D03AQF47sZmmcz88w/profile-displayphoto-shrink_100_100/0/1660293261659?e=1715212800&v=beta&t=6S_6JKUhJYyaldPjMnEnY4qhKiq-DOXCQQ8ETUPgaDY","https://media.licdn.com/dms/image/C4D03AQF47sZmmcz88w/profile-displayphoto-shrink_100_100/0/1660293261659?e=1715212800&v=beta&t=6S_6JKUhJYyaldPjMnEnY4qhKiq-DOXCQQ8ETUPgaDY"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C4D03AQF47sZmmcz88w/profile-displayphoto-shrink_100_100/0/1660293261659?e=1715212800&v=beta&t=6S_6JKUhJYyaldPjMnEnY4qhKiq-DOXCQQ8ETUPgaDY",
+        "job": "Memur"
+    },
+    
     {
         "GorselURL": [
           "https://media.licdn.com/dms/image/C5603AQHObRMGOX8wvQ/profile-displayphoto-shrink_100_100/0/1583002591027?e=1715212800&v=beta&t=BcKj9VigmbTAuszYsmWp_P1f_oMzK9Po00FDrMgML6c",
           "https://media.licdn.com/dms/image/C5603AQHObRMGOX8wvQ/profile-displayphoto-shrink_100_100/0/1583002591027?e=1715212800&v=beta&t=BcKj9VigmbTAuszYsmWp_P1f_oMzK9Po00FDrMgML6c"
         ],
         "IlkGorselURL": "https://media.licdn.com/dms/image/C5603AQHObRMGOX8wvQ/profile-displayphoto-shrink_100_100/0/1583002591027?e=1715212800&v=beta&t=BcKj9VigmbTAuszYsmWp_P1f_oMzK9Po00FDrMgML6c",
-        "job": "Developer"
+        "job": "Beyaz Yaka"
     },
     {
         "GorselURL": ["https://media.licdn.com/dms/image/D4E35AQF2b5xdHL1eJQ/profile-framedphoto-shrink_100_100/0/1708458756812?e=1710320400&v=beta&t=TALKiLgPJdi7eFt4slX8fhr5fn-tOzVARJDoqyBgIgg"
@@ -28,34 +66,17 @@
             "https://media.licdn.com/dms/image/D4D03AQFMu3PZOYskIw/profile-displayphoto-shrink_100_100/0/1690726502872?e=1715212800&v=beta&t=TYIuq_iUqDJCiLFSiEP15PoGm3oKHz6fKkJMDvdqM_8"
           ],
         "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQFMu3PZOYskIw/profile-displayphoto-shrink_100_100/0/1690726502872?e=1715212800&v=beta&t=TYIuq_iUqDJCiLFSiEP15PoGm3oKHz6fKkJMDvdqM_8",
-        "job": "Tester"
-    },
-
-    {
-        "GorselURL": [
-            "https://media.licdn.com/dms/image/D4D03AQHpBAEsLtdUVA/profile-displayphoto-shrink_100_100/0/1687073234945?e=1715212800&v=beta&t=CYos5jJUykFlxnib1Wc_5_hK7ncoZ2hODrmpvD-95l8",
-            "https://media.licdn.com/dms/image/D4D03AQHpBAEsLtdUVA/profile-displayphoto-shrink_100_100/0/1687073234945?e=1715212800&v=beta&t=CYos5jJUykFlxnib1Wc_5_hK7ncoZ2hODrmpvD-95l8"
-          ],
-        "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQHpBAEsLtdUVA/profile-displayphoto-shrink_100_100/0/1687073234945?e=1715212800&v=beta&t=CYos5jJUykFlxnib1Wc_5_hK7ncoZ2hODrmpvD-95l8",
-        "job": "Esnaf"
-    },
-
-    {
-        "GorselURL": [
-            "https://media.licdn.com/dms/image/D5603AQHY8bj8vzzt5g/profile-displayphoto-shrink_100_100/0/1638963703610?e=1715212800&v=beta&t=9zyAT-3ki7JOm0_MfnzC0SyGltjD0oMKJJDxr9p50QA",
-            "https://media.licdn.com/dms/image/D5603AQHY8bj8vzzt5g/profile-displayphoto-shrink_100_100/0/1638963703610?e=1715212800&v=beta&t=9zyAT-3ki7JOm0_MfnzC0SyGltjD0oMKJJDxr9p50QA"
-          ],
-        "IlkGorselURL":"https://media.licdn.com/dms/image/D5603AQHY8bj8vzzt5g/profile-displayphoto-shrink_100_100/0/1638963703610?e=1715212800&v=beta&t=9zyAT-3ki7JOm0_MfnzC0SyGltjD0oMKJJDxr9p50QA",
         "job": "Beyaz Yaka"
     },
 
+  
     {
         "GorselURL": [
             "https://media.licdn.com/dms/image/C4D03AQHlVRhGbv8sRQ/profile-displayphoto-shrink_100_100/0/1607980732105?e=1715212800&v=beta&t=Iu5dFIzlsrS1rlSdYrjjFT7w9HEMUG4X4vv0_gyb4bA",
             "https://media.licdn.com/dms/image/C4D03AQHlVRhGbv8sRQ/profile-displayphoto-shrink_100_100/0/1607980732105?e=1715212800&v=beta&t=Iu5dFIzlsrS1rlSdYrjjFT7w9HEMUG4X4vv0_gyb4bA"
         ],
         "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQHlVRhGbv8sRQ/profile-displayphoto-shrink_100_100/0/1607980732105?e=1715212800&v=beta&t=Iu5dFIzlsrS1rlSdYrjjFT7w9HEMUG4X4vv0_gyb4bA",
-        "job": "Developer"
+        "job": "Beyaz Yaka"
     },
 
     {
@@ -63,12 +84,9 @@
         "https://media.licdn.com/dms/image/D4D03AQHYOWmyfA8bKA/profile-displayphoto-shrink_100_100/0/1676421755284?e=1715212800&v=beta&t=XZIZBhkiF9Yi6qFAxbcbQrWLIkNLs62a224ZS6_a5Kc"
         ],
         "IlkGorselURL":"https://media.licdn.com/dms/image/D4D03AQHYOWmyfA8bKA/profile-displayphoto-shrink_100_100/0/1676421755284?e=1715212800&v=beta&t=XZIZBhkiF9Yi6qFAxbcbQrWLIkNLs62a224ZS6_a5Kc",
-        "job": "Esnaf"
+        "job": "Beyaz Yaka"
     }
     ,
-
-
-
     {
         "GorselURL": ["https://media.licdn.com/dms/image/D5603AQHmyI1hOcipvQ/profile-displayphoto-shrink_100_100/0/1700222691932?e=1715212800&v=beta&t=T4i8N9wypRrZ2HPBjaw7aT5NhF2AtlvssfzQFxAEK0w",
         "https://media.licdn.com/dms/image/D5603AQHmyI1hOcipvQ/profile-displayphoto-shrink_100_100/0/1700222691932?e=1715212800&v=beta&t=T4i8N9wypRrZ2HPBjaw7aT5NhF2AtlvssfzQFxAEK0w"
@@ -81,7 +99,7 @@
         "GorselURL": ["https://media.licdn.com/dms/image/D4D03AQHRyrPNXgNEVg/profile-displayphoto-shrink_100_100/0/1707683117590?e=1715212800&v=beta&t=DTv-DIxZSfmzXegYgpQliUhlK02hrEwsfy7QYGBg6og",
         "https://media.licdn.com/dms/image/D4D03AQHRyrPNXgNEVg/profile-displayphoto-shrink_100_100/0/1707683117590?e=1715212800&v=beta&t=DTv-DIxZSfmzXegYgpQliUhlK02hrEwsfy7QYGBg6og"],
         "IlkGorselURL":"https://media.licdn.com/dms/image/D4D03AQHRyrPNXgNEVg/profile-displayphoto-shrink_100_100/0/1707683117590?e=1715212800&v=beta&t=DTv-DIxZSfmzXegYgpQliUhlK02hrEwsfy7QYGBg6og",
-        "job": "Esnaf"
+        "job": "Beyaz Yaka"
     },
 
     {
@@ -89,13 +107,164 @@
         "https://media.licdn.com/dms/image/D4D03AQHYOWmyfA8bKA/profile-displayphoto-shrink_100_100/0/1676421755284?e=1715212800&v=beta&t=XZIZBhkiF9Yi6qFAxbcbQrWLIkNLs62a224ZS6_a5Kc"
         ],
         "IlkGorselURL":"https://media.licdn.com/dms/image/D4D03AQHYOWmyfA8bKA/profile-displayphoto-shrink_100_100/0/1676421755284?e=1715212800&v=beta&t=XZIZBhkiF9Yi6qFAxbcbQrWLIkNLs62a224ZS6_a5Kc",
-        "job": "Esnaf"
+        "job": "Beyaz Yaka"
+    },
+
+
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/D4D03AQH4Ue0qb3CeyA/profile-displayphoto-shrink_100_100/0/1689411229600?e=1715212800&v=beta&t=pYQ0w_vOwrHep8faMA-13RJXw8nOmGodHpqKOAr0yOc",
+        "https://media.licdn.com/dms/image/D4D03AQH4Ue0qb3CeyA/profile-displayphoto-shrink_100_100/0/1689411229600?e=1715212800&v=beta&t=pYQ0w_vOwrHep8faMA-13RJXw8nOmGodHpqKOAr0yOc"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D4D03AQH4Ue0qb3CeyA/profile-displayphoto-shrink_100_100/0/1689411229600?e=1715212800&v=beta&t=pYQ0w_vOwrHep8faMA-13RJXw8nOmGodHpqKOAr0yOc",
+        "job": "Beyaz Yaka"
+    },
+    
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/C5603AQEGKlGgAK4RZg/profile-displayphoto-shrink_100_100/0/1660813151431?e=1715212800&v=beta&t=mKRCz758DR-TtqJ2BeThPfHivC12XBwf3ntRpVcNcYs"
+        ,"https://media.licdn.com/dms/image/C5603AQEGKlGgAK4RZg/profile-displayphoto-shrink_100_100/0/1660813151431?e=1715212800&v=beta&t=mKRCz758DR-TtqJ2BeThPfHivC12XBwf3ntRpVcNcYs"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C5603AQEGKlGgAK4RZg/profile-displayphoto-shrink_100_100/0/1660813151431?e=1715212800&v=beta&t=mKRCz758DR-TtqJ2BeThPfHivC12XBwf3ntRpVcNcYs",
+        "job": "Beyaz Yaka"
+    },
+    
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/C5603AQH-Qnml7PnIbQ/profile-displayphoto-shrink_100_100/0/1586982489242?e=1715212800&v=beta&t=Oqf6FwU-a8_vSreaG9zL65pQAClj6vQiyCdv-SxfZ0Y","https://media.licdn.com/dms/image/C5603AQH-Qnml7PnIbQ/profile-displayphoto-shrink_100_100/0/1586982489242?e=1715212800&v=beta&t=Oqf6FwU-a8_vSreaG9zL65pQAClj6vQiyCdv-SxfZ0Y"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C5603AQH-Qnml7PnIbQ/profile-displayphoto-shrink_100_100/0/1586982489242?e=1715212800&v=beta&t=Oqf6FwU-a8_vSreaG9zL65pQAClj6vQiyCdv-SxfZ0Y",
+        "job": "Beyaz Yaka"
+    },
+    
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/C5603AQG26UL7_yrQgQ/profile-displayphoto-shrink_100_100/0/1516829140940?e=1715212800&v=beta&t=zDbJyEqC-D_FLYnNQ6OjZzVyKKLkyGUaGuKJolyMAOA","https://media.licdn.com/dms/image/C5603AQG26UL7_yrQgQ/profile-displayphoto-shrink_100_100/0/1516829140940?e=1715212800&v=beta&t=zDbJyEqC-D_FLYnNQ6OjZzVyKKLkyGUaGuKJolyMAOA"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C5603AQG26UL7_yrQgQ/profile-displayphoto-shrink_100_100/0/1516829140940?e=1715212800&v=beta&t=zDbJyEqC-D_FLYnNQ6OjZzVyKKLkyGUaGuKJolyMAOA",
+        "job": "Beyaz Yaka"
+    }
+
+
+,
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/D4D03AQGFbi5hra8N_Q/profile-displayphoto-shrink_100_100/0/1693466331291?e=1715212800&v=beta&t=uWyhR5gqo48qaE2y9LtfpqjU8gGoS2AGwjkoyFp673Q","https://media.licdn.com/dms/image/D4D03AQGFbi5hra8N_Q/profile-displayphoto-shrink_100_100/0/1693466331291?e=1715212800&v=beta&t=uWyhR5gqo48qaE2y9LtfpqjU8gGoS2AGwjkoyFp673Q"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D4D03AQGFbi5hra8N_Q/profile-displayphoto-shrink_100_100/0/1693466331291?e=1715212800&v=beta&t=uWyhR5gqo48qaE2y9LtfpqjU8gGoS2AGwjkoyFp673Q",
+        "job": "Öğretmen"
+    },
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/C4D03AQG0oj2lT9NPRA/profile-displayphoto-shrink_100_100/0/1614593197984?e=1715212800&v=beta&t=6_KrxAzOdTLuRucGChYRO5-TUlbR82I6XpBk6fwcVF8","https://media.licdn.com/dms/image/C4D03AQG0oj2lT9NPRA/profile-displayphoto-shrink_100_100/0/1614593197984?e=1715212800&v=beta&t=6_KrxAzOdTLuRucGChYRO5-TUlbR82I6XpBk6fwcVF8"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C4D03AQG0oj2lT9NPRA/profile-displayphoto-shrink_100_100/0/1614593197984?e=1715212800&v=beta&t=6_KrxAzOdTLuRucGChYRO5-TUlbR82I6XpBk6fwcVF8",
+        "job": "Öğretmen"
     },
 
     {
-        "GorselURL": ["https://media.licdn.com/dms/image/C4D03AQH0VCSIhGkypw/profile-displayphoto-shrink_100_100/0/1641067678061?e=1715212800&v=beta&t=huKqsPiBZEP-M83okPdbuLL8C_islS9aWOn_GtqY-Qg","https://media.licdn.com/dms/image/C4D03AQH0VCSIhGkypw/profile-displayphoto-shrink_100_100/0/1641067678061?e=1715212800&v=beta&t=huKqsPiBZEP-M83okPdbuLL8C_islS9aWOn_GtqY-Qg"],
-        "IlkGorselURL":"https://media.licdn.com/dms/image/C4D03AQH0VCSIhGkypw/profile-displayphoto-shrink_100_100/0/1641067678061?e=1715212800&v=beta&t=huKqsPiBZEP-M83okPdbuLL8C_islS9aWOn_GtqY-Qg",
-        "job": "Tester"
-    }
+        "GorselURL": ["https://media.licdn.com/dms/image/C5603AQGe8pakZPNQJw/profile-displayphoto-shrink_100_100/0/1580837995811?e=1715212800&v=beta&t=TwNL5xktEfgR8QzwfSHNk2CbD8Fv30g-aUJbv0A7mGM","https://media.licdn.com/dms/image/C5603AQGe8pakZPNQJw/profile-displayphoto-shrink_100_100/0/1580837995811?e=1715212800&v=beta&t=TwNL5xktEfgR8QzwfSHNk2CbD8Fv30g-aUJbv0A7mGM"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C5603AQGe8pakZPNQJw/profile-displayphoto-shrink_100_100/0/1580837995811?e=1715212800&v=beta&t=TwNL5xktEfgR8QzwfSHNk2CbD8Fv30g-aUJbv0A7mGM",
+        "job": "Öğretmen"
+    },
 
+    {
+        "GorselURL": [
+            "https://media.licdn.com/dms/image/D4D03AQHpBAEsLtdUVA/profile-displayphoto-shrink_100_100/0/1687073234945?e=1715212800&v=beta&t=CYos5jJUykFlxnib1Wc_5_hK7ncoZ2hODrmpvD-95l8",
+            "https://media.licdn.com/dms/image/D4D03AQHpBAEsLtdUVA/profile-displayphoto-shrink_100_100/0/1687073234945?e=1715212800&v=beta&t=CYos5jJUykFlxnib1Wc_5_hK7ncoZ2hODrmpvD-95l8"
+          ],
+        "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQHpBAEsLtdUVA/profile-displayphoto-shrink_100_100/0/1687073234945?e=1715212800&v=beta&t=CYos5jJUykFlxnib1Wc_5_hK7ncoZ2hODrmpvD-95l8",
+        "job": "Beyaz Yaka"
+    },
+
+    {
+        "GorselURL": [
+            "https://media.licdn.com/dms/image/D5603AQHY8bj8vzzt5g/profile-displayphoto-shrink_100_100/0/1638963703610?e=1715212800&v=beta&t=9zyAT-3ki7JOm0_MfnzC0SyGltjD0oMKJJDxr9p50QA",
+            "https://media.licdn.com/dms/image/D5603AQHY8bj8vzzt5g/profile-displayphoto-shrink_100_100/0/1638963703610?e=1715212800&v=beta&t=9zyAT-3ki7JOm0_MfnzC0SyGltjD0oMKJJDxr9p50QA"
+          ],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D5603AQHY8bj8vzzt5g/profile-displayphoto-shrink_100_100/0/1638963703610?e=1715212800&v=beta&t=9zyAT-3ki7JOm0_MfnzC0SyGltjD0oMKJJDxr9p50QA",
+        "job": "Beyaz Yaka"
+    },
+
+
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/D5603AQGB8Ck2uYBzcg/profile-displayphoto-shrink_100_100/0/1704318678008?e=1715212800&v=beta&t=JhnDFugm-kVNfRKJ9bOp-t2TTAoMpsQpjq_sYi6BG1A","https://media.licdn.com/dms/image/D5603AQGB8Ck2uYBzcg/profile-displayphoto-shrink_100_100/0/1704318678008?e=1715212800&v=beta&t=JhnDFugm-kVNfRKJ9bOp-t2TTAoMpsQpjq_sYi6BG1A"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D5603AQGB8Ck2uYBzcg/profile-displayphoto-shrink_100_100/0/1704318678008?e=1715212800&v=beta&t=JhnDFugm-kVNfRKJ9bOp-t2TTAoMpsQpjq_sYi6BG1A",
+        "job": "Öğretmen"
+    },
+
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/C4E03AQGgXZCwyQcA6g/profile-displayphoto-shrink_100_100/0/1614462506073?e=1715212800&v=beta&t=xS-o4cZ-1nMrx149y1aWpvJbH6ZhP_SxeW8VEoOsY4U","https://media.licdn.com/dms/image/C4E03AQGgXZCwyQcA6g/profile-displayphoto-shrink_100_100/0/1614462506073?e=1715212800&v=beta&t=xS-o4cZ-1nMrx149y1aWpvJbH6ZhP_SxeW8VEoOsY4U"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C4E03AQGgXZCwyQcA6g/profile-displayphoto-shrink_100_100/0/1614462506073?e=1715212800&v=beta&t=xS-o4cZ-1nMrx149y1aWpvJbH6ZhP_SxeW8VEoOsY4U",
+        "job": "Öğretmen"
+    },
+
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/D4D03AQH5FQF1pa1wvA/profile-displayphoto-shrink_100_100/0/1672815885833?e=1715212800&v=beta&t=RAdOBMz2Ytt4ts5MgKvEoBro9bhVSaKGj9_502RCt_4","https://media.licdn.com/dms/image/D4D03AQH5FQF1pa1wvA/profile-displayphoto-shrink_100_100/0/1672815885833?e=1715212800&v=beta&t=RAdOBMz2Ytt4ts5MgKvEoBro9bhVSaKGj9_502RCt_4"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D4D03AQH5FQF1pa1wvA/profile-displayphoto-shrink_100_100/0/1672815885833?e=1715212800&v=beta&t=RAdOBMz2Ytt4ts5MgKvEoBro9bhVSaKGj9_502RCt_4",
+        "job": "Öğretmen"
+    },
+
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/C5603AQFBqSfqL7jyIQ/profile-displayphoto-shrink_100_100/0/1517547877113?e=1715212800&v=beta&t=to0F-JlJVS8nPUuUTNGmm7sRDtSl_UOBmUT1xiaNXW8","https://media.licdn.com/dms/image/C5603AQFBqSfqL7jyIQ/profile-displayphoto-shrink_100_100/0/1517547877113?e=1715212800&v=beta&t=to0F-JlJVS8nPUuUTNGmm7sRDtSl_UOBmUT1xiaNXW8"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C5603AQFBqSfqL7jyIQ/profile-displayphoto-shrink_100_100/0/1517547877113?e=1715212800&v=beta&t=to0F-JlJVS8nPUuUTNGmm7sRDtSl_UOBmUT1xiaNXW8",
+        "job": "Öğretmen"
+    }
+,
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/D4D03AQFDo0jywELYuQ/profile-displayphoto-shrink_100_100/0/1705217233812?e=1715212800&v=beta&t=D-Xnqk6_9j660cb5BWT3yvh6Gyw31xWcNHPiTGY9HKQ","https://media.licdn.com/dms/image/D4D03AQFDo0jywELYuQ/profile-displayphoto-shrink_100_100/0/1705217233812?e=1715212800&v=beta&t=D-Xnqk6_9j660cb5BWT3yvh6Gyw31xWcNHPiTGY9HKQ"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D4D03AQFDo0jywELYuQ/profile-displayphoto-shrink_100_100/0/1705217233812?e=1715212800&v=beta&t=D-Xnqk6_9j660cb5BWT3yvh6Gyw31xWcNHPiTGY9HKQ",
+        "job": "Öğretmen"
+    },
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/C4E03AQFOrGmuQNvHMA/profile-displayphoto-shrink_100_100/0/1516941361500?e=1715212800&v=beta&t=Q60Cr0tQNENZ0jnoTiM4TD6K-Q00PNBSg1dFPgqfJfo","https://media.licdn.com/dms/image/C4E03AQFOrGmuQNvHMA/profile-displayphoto-shrink_100_100/0/1516941361500?e=1715212800&v=beta&t=Q60Cr0tQNENZ0jnoTiM4TD6K-Q00PNBSg1dFPgqfJfo"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C4E03AQFOrGmuQNvHMA/profile-displayphoto-shrink_100_100/0/1516941361500?e=1715212800&v=beta&t=Q60Cr0tQNENZ0jnoTiM4TD6K-Q00PNBSg1dFPgqfJfo",
+        "job": "Öğretmen"
+    },
+    {
+        "GorselURL": ["https://media.licdn.com/dms/image/C4E03AQFOrGmuQNvHMA/profile-displayphoto-shrink_100_100/0/1516941361500?e=1715212800&v=beta&t=Q60Cr0tQNENZ0jnoTiM4TD6K-Q00PNBSg1dFPgqfJfo","https://media.licdn.com/dms/image/C4E03AQFOrGmuQNvHMA/profile-displayphoto-shrink_100_100/0/1516941361500?e=1715212800&v=beta&t=Q60Cr0tQNENZ0jnoTiM4TD6K-Q00PNBSg1dFPgqfJfo"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C4E03AQFOrGmuQNvHMA/profile-displayphoto-shrink_100_100/0/1516941361500?e=1715212800&v=beta&t=Q60Cr0tQNENZ0jnoTiM4TD6K-Q00PNBSg1dFPgqfJfo",
+        "job": "Öğretmen"
+    },
+
+
+    { 
+        "GörselURL":["https://media.licdn.com/dms/image/D4D03AQEllygxVmavtA/profile-displayphoto-shrink_100_100/0/1690287297331?e=1715212800&v=beta&t=lJmJBV1VW705K8YiB5wulXzm5MEO2Tvqj_pxaNQMuHs","https://media.licdn.com/dms/image/D4D03AQEllygxVmavtA/profile-displayphoto-shrink_100_100/0/1690287297331?e=1715212800&v=beta&t=lJmJBV1VW705K8YiB5wulXzm5MEO2Tvqj_pxaNQMuHs"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D4D03AQEllygxVmavtA/profile-displayphoto-shrink_100_100/0/1690287297331?e=1715212800&v=beta&t=lJmJBV1VW705K8YiB5wulXzm5MEO2Tvqj_pxaNQMuHs",
+        "job": "Esnaf"
+
+    },
+    { 
+        "GörselURL":["https://upload.wikimedia.org/wikipedia/commons/c/c9/CZN_Burak_and_Ram%C3%A7o_%28cropped%29.png","https://upload.wikimedia.org/wikipedia/commons/c/c9/CZN_Burak_and_Ram%C3%A7o_%28cropped%29.png"],
+        "IlkGorselURL":"https://upload.wikimedia.org/wikipedia/commons/c/c9/CZN_Burak_and_Ram%C3%A7o_%28cropped%29.png",
+        "job": "Esnaf"
+    },
+    { 
+        "GörselURL":["https://upload.wikimedia.org/wikipedia/commons/c/c9/CZN_Burak_and_Ram%C3%A7o_%28cropped%29.png","https://upload.wikimedia.org/wikipedia/commons/c/c9/CZN_Burak_and_Ram%C3%A7o_%28cropped%29.png"],
+        "IlkGorselURL":"https://upload.wikimedia.org/wikipedia/commons/c/c9/CZN_Burak_and_Ram%C3%A7o_%28cropped%29.png",
+        "job": "Esnaf"
+    },
+
+    { 
+        "GörselURL":["https://media.licdn.com/dms/image/C5603AQF40GqdWXZbTw/profile-displayphoto-shrink_100_100/0/1521007246615?e=1715212800&v=beta&t=t6unE7sbpfbYOWQZrxymGwi4Tl_opOfhCU4IXs8K-eE","https://media.licdn.com/dms/image/C5603AQF40GqdWXZbTw/profile-displayphoto-shrink_100_100/0/1521007246615?e=1715212800&v=beta&t=t6unE7sbpfbYOWQZrxymGwi4Tl_opOfhCU4IXs8K-eE"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C5603AQF40GqdWXZbTw/profile-displayphoto-shrink_100_100/0/1521007246615?e=1715212800&v=beta&t=t6unE7sbpfbYOWQZrxymGwi4Tl_opOfhCU4IXs8K-eE",
+        "job": "Esnaf"
+    }
+    ,
+    { 
+        "GörselURL":["https://media.licdn.com/dms/image/C5603AQFM8uWKDE22-g/profile-displayphoto-shrink_100_100/0/1539261138304?e=1715212800&v=beta&t=xTBu_jpy3PwJt1wydflaadwc4WcfaNKb8snM-e4_T7o","https://media.licdn.com/dms/image/C5603AQFM8uWKDE22-g/profile-displayphoto-shrink_100_100/0/1539261138304?e=1715212800&v=beta&t=xTBu_jpy3PwJt1wydflaadwc4WcfaNKb8snM-e4_T7o"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C5603AQFM8uWKDE22-g/profile-displayphoto-shrink_100_100/0/1539261138304?e=1715212800&v=beta&t=xTBu_jpy3PwJt1wydflaadwc4WcfaNKb8snM-e4_T7o",
+        "job": "Memur"
+    }
+    ,
+    { 
+        "GörselURL":["https://media.licdn.com/dms/image/D4D03AQHZ_e2MlwY2AQ/profile-displayphoto-shrink_100_100/0/1688939587328?e=1715212800&v=beta&t=ACWiaafON__l390PNASUgYkAvsP-Svwz85aD6DQT6UY","https://media.licdn.com/dms/image/D4D03AQHZ_e2MlwY2AQ/profile-displayphoto-shrink_100_100/0/1688939587328?e=1715212800&v=beta&t=ACWiaafON__l390PNASUgYkAvsP-Svwz85aD6DQT6UY"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D4D03AQHZ_e2MlwY2AQ/profile-displayphoto-shrink_100_100/0/1688939587328?e=1715212800&v=beta&t=ACWiaafON__l390PNASUgYkAvsP-Svwz85aD6DQT6UY",
+        "job": "Memur"
+    },
+    { 
+        "GörselURL":["https://media.licdn.com/dms/image/D5603AQExnVuz2bj-7g/profile-displayphoto-shrink_100_100/0/1633934539453?e=1715212800&v=beta&t=odSqxARfo7bLAg2pfZhBYprURPHTea64ahJZ7rk77pI","https://media.licdn.com/dms/image/D5603AQExnVuz2bj-7g/profile-displayphoto-shrink_100_100/0/1633934539453?e=1715212800&v=beta&t=odSqxARfo7bLAg2pfZhBYprURPHTea64ahJZ7rk77pI"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/D5603AQExnVuz2bj-7g/profile-displayphoto-shrink_100_100/0/1633934539453?e=1715212800&v=beta&t=odSqxARfo7bLAg2pfZhBYprURPHTea64ahJZ7rk77pI",
+        "job": "Esnaf"
+    }
+    ,
+    { 
+        "GörselURL":["https://www.linkedin.com/in/mina-demir-4622b5164?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACcy90oB43APphWK812H1ho5rjZ9BJldpKI&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BF4y25gZvS%2FSLpLguYz4RcA%3D%3D","https://www.linkedin.com/in/mina-demir-4622b5164?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACcy90oB43APphWK812H1ho5rjZ9BJldpKI&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BF4y25gZvS%2FSLpLguYz4RcA%3D%3D"],
+        "IlkGorselURL":"https://www.linkedin.com/in/mina-demir-4622b5164?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACcy90oB43APphWK812H1ho5rjZ9BJldpKI&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BF4y25gZvS%2FSLpLguYz4RcA%3D%3D",
+        "job": "Memur"
+    }
+    ,
+    { 
+        "GörselURL":["https://media.licdn.com/dms/image/C4E03AQHRBmC4xsKY3Q/profile-displayphoto-shrink_100_100/0/1638557097404?e=1715212800&v=beta&t=pGStUPlscEQHAEQ62AnW51_c53PFstuAGfuvknWYh_g","https://media.licdn.com/dms/image/C4E03AQHRBmC4xsKY3Q/profile-displayphoto-shrink_100_100/0/1638557097404?e=1715212800&v=beta&t=pGStUPlscEQHAEQ62AnW51_c53PFstuAGfuvknWYh_g"],
+        "IlkGorselURL":"https://media.licdn.com/dms/image/C4E03AQHRBmC4xsKY3Q/profile-displayphoto-shrink_100_100/0/1638557097404?e=1715212800&v=beta&t=pGStUPlscEQHAEQ62AnW51_c53PFstuAGfuvknWYh_g",
+        "job": "Memur"
+    }
 ]
